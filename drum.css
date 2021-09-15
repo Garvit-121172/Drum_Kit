@@ -1,0 +1,49 @@
+#bdy{
+	background-color:#e84a5f;
+	text-align: center;
+	padding-top: 45px;
+
+}
+.Drum{
+	position: relative;
+	font-size:5.5rem;
+	line-height: 1.5;
+	font-family: 'Architects Daughter', cursive;
+	color:#fff;
+	right:20px;
+	padding-bottom: 50px;
+	
+}
+.drum{
+	width: 150px;
+	height: 150px;
+	margin-left: 20px;
+	margin-top: 20px;
+	color:#fff;
+	background-color: #ffbb00;
+	font-family: 'Architects Daughter', cursive;
+
+}
+#a,#s,#d,#g,#h,#j,#k{
+	font-size:4rem; 
+	
+}
+.icon{
+	width:60px;
+	height: 60px; 
+}
+.random{
+	width: 300px;
+	height: 150px;
+	margin-left: 2px;
+	margin-top: 30px;
+	color:#fff;
+	background-color: #ffbb00;
+
+}
+#ran{
+	font-family: 'Architects Daughter', cursive;
+	font-size:2.5rem; 
+	position: relative;
+	left:0px;
+}
